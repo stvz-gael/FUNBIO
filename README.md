@@ -30,7 +30,7 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 **Hobbies:** *kkkkk*  
 **Área de investigación:** *Biomecánica, diseño centrado en el usuario*
 
-**Contacto:** [email@dominio.com](mailto:email@dominio.com) | @usuario
+**Contacto:** [email@dominio.com](mailto:email@dominio.com) 
 
 ---
 
@@ -45,7 +45,7 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 **Hobbies:** *Producir música, tocar piano, jugar con amigos, pasear*  
 **Área de investigación:** *Biomecánica y Señales*
 
-**Contacto:** [gael.santivanez@upch.pe](mailto:gael.santivanez@upch.pe) | @stvz_gxel
+**Contacto:** [gael.santivanez@upch.pe](mailto:gael.santivanez@upch.pe) 
 
 ---
 
@@ -61,7 +61,7 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 **Hobbies:** *Artes plásticas, deportes al aire libre*  
 **Área de investigación:** *Materiales biomédicos, fabricación aditiva*
 
-**Contacto:** [email@dominio.com](mailto:email@dominio.com) | @usuario
+**Contacto:** [email@dominio.com](mailto:email@dominio.com)
 
 ---
 
@@ -77,7 +77,7 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 **Hobbies:** *Leer, bailar, armar rompecabezas*  
 **Área de investigación:** *Bioseñales, procesamiento de datos*
 
-**Contacto:** [email@dominio.com](mailto:valeria.valdivia.p@upch.pe) | @usuario
+**Contacto:** [valeria.valdivia.p@upch.pe](mailto:valeria.valdivia.p@upch.pe)
 
 ---
 
@@ -92,7 +92,7 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 **Hobbies:** *Ajedrez, escuchar música*  
 **Área de investigación:** *Señales e imágenes médicas*
 
-**Contacto:** [ricardo.torresc@pucp.edu.pe](mailto:ricardo.torresc@pucp.edu.pe) | @richie.
+**Contacto:** [ricardo.torres@upch.pe](mailto:ricardo.torres@upch.pe)
 
 ---
 
@@ -107,7 +107,7 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 **Hobbies:** *Música electrónica, lectura de ciencia ficción*  
 **Área de investigación:** *Interoperabilidad de sistemas, trazabilidad*
 
-**Contacto:** [email@dominio.com](mailto:email@dominio.com) | @usuario
+**Contacto:** [email@dominio.com](mailto:email@dominio.com)
 
 ---
 
