@@ -25,7 +25,7 @@ Diseñar y desarrollar un dispositivo biomédico que pueda mejorar la calidad de
   <img src="https://github.com/stvz-gael/FUNBIO/blob/main/Im%C3%A1genes/ALEJANDRO.jpg" alt="INTEGRANTE 1" width="300"/>
 </p>
 
-**Edad:** 18
+**Edad:** *18* 
 **Rol/Responsabilidades:** *Diseñador de Prototipo (Diseño Industrial y CAD)*  
 **Hobbies:** *Esuchar música, leer*  
 **Área de Interés:** *Biomecánica, diseño centrado en el usuario*
@@ -102,7 +102,7 @@ Diseñar y desarrollar un dispositivo biomédico que pueda mejorar la calidad de
   <img src="https://github.com/stvz-gael/FUNBIO/blob/main/Im%C3%A1genes/ISSA.jpg" alt="INTEGRANTE 6" width="300"/>
 </p>
 
-**Edad:** 19
+**Edad:** *19*
 **Rol/Responsabilidades:** *Gestor de materiales y logística*  
 **Hobbies:** *Leer,jugar voley y hacer manualidades*  
 **Área de Interés:** *Señales e imágenes médicas*
