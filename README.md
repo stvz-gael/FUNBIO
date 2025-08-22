@@ -18,7 +18,9 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 
 # Integrante 1 — **ALEJANDRO SANTA MARÍA **
 
-<img src="https://github.com/stvz-gael/FUNBIO/blob/main/Im%C3%A1genes/ALEJANDRO.jpg" alt="INTEGRANTE 1" width="300"/>
+<p align="center">
+  <img src="https://github.com/stvz-gael/FUNBIO/blob/main/Im%C3%A1genes/ALEJANDRO.jpg" alt="INTEGRANTE 1" width="300"/>
+</p>
 
 **Edad:** 19 
 **Rol/Responsabilidades:** *Líder de proyecto, coordinación con clínicos y planificación*  
@@ -31,7 +33,9 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 
 # Integrante 2 — **GAEL SANTIVAÑEZ**
 
-![Integrante 2](https://github.com/stvz-gael/FUNBIO/blob/main/Im%C3%A1genes/GAEL.jpg)
+<p align="center">
+  <img src="https://github.com/stvz-gael/FUNBIO/blob/main/Im%C3%A1genes/GAEL.jpg" alt="INTEGRANTE 2" width="300"/>
+</p>
 
 **Edad:** XX  
 **Rol/Responsabilidades:** *Investigación clínica, entrevistas con usuarios*  
@@ -44,7 +48,10 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 
 # Integrante 3 — **GUSTAVO VÁSQUEZ**
 
-![Integrante 3](https://github.com/stvz-gael/FUNBIO/blob/main/Im%C3%A1genes/GUSTAVO.jpg)
+<p align="center">
+  <img src="https://github.com/stvz-gael/FUNBIO/blob/main/Im%C3%A1genes/GUSTAVO.jpg" alt="INTEGRANTE 3" width="300"/>
+</p>
+
 
 **Edad:** XX  
 **Rol/Responsabilidades:** *Diseño CAD y prototipado 3D*  
@@ -57,7 +64,10 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 
 # Integrante 4 — **VALERIA VALDIVIA**
 
-![Integrante 4](https://github.com/stvz-gael/FUNBIO/blob/main/Im%C3%A1genes/VAL.jpg)
+<p align="center">
+  <img src="https://github.com/stvz-gael/FUNBIO/blob/main/Im%C3%A1genes/VAL.jpg" alt="INTEGRANTE 4" width="300"/>
+</p>
+
 
 **Edad:** 18  
 **Rol/Responsabilidades:** *Validación y pruebas de dispositivos*  
@@ -70,7 +80,9 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 
 # Integrante 5 — **RICARDO TORRES*
 
-![Integrante 5](https://github.com/stvz-gael/FUNBIO/blob/main/Im%C3%A1genes/RICHIE.jpg)
+<p align="center">
+  <img src="https://github.com/stvz-gael/FUNBIO/blob/main/Im%C3%A1genes/RICHIE.jpg" alt="INTEGRANTE 5" width="300"/>
+</p>
 
 **Edad:** XX  
 **Rol/Responsabilidades:** *Regulación y ética del proyecto*  
@@ -83,7 +95,9 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 
 # Integrante 6 — **ROSA VILLARREAL**
 
-![Integrante 6](https://github.com/stvz-gael/FUNBIO/blob/main/Im%C3%A1genes/ISSA.jpg)
+<p align="center">
+  <img src="https://github.com/stvz-gael/FUNBIO/blob/main/Im%C3%A1genes/ISSA.jpg" alt="INTEGRANTE 6" width="300"/>
+</p>
 
 **Edad:** 19 
 **Rol/Responsabilidades:** *Modelado y prototipado*  
