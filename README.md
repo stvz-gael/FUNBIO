@@ -104,7 +104,7 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 
 **Edad:** 19 
 **Rol/Responsabilidades:** *Modelado y prototipado*  
-**Hobbies:** *Música electrónica, lectura de ciencia ficción*  
+**Hobbies:** * Leer, escuchar musica y construir cosas*  
 **Área de investigación:** *Interoperabilidad de sistemas, trazabilidad*
 
 **Contacto:** [email@dominio.com](mailto:email@dominio.com) | @usuario
