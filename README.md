@@ -14,7 +14,7 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 
 # Integrante 1 — **NOMBRE APELLIDO**
 
-![Integrante 1](https://github.com/stvz-gael/FUNBIO/blob/main/Im%C3%A1genes/ALEJANDRO.jpg)
+![Integrante 1](https://github.com/stvz-gael/FUNBIO/blob/main/Im%C3%A1genes/ALEJANDRO.jpg)<img src="ruta/de/imagen.png" alt="Descripción" width="300"/>
 
 **Edad:** 19 
 **Rol/Responsabilidades:** *Líder de proyecto, coordinación con clínicos y planificación*  
