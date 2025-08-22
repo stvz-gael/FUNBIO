@@ -41,7 +41,7 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 </p>
 
 **Edad:** 18  
-**Rol/Responsabilidades:** *Investigación mecánica y clínica, entrevistas con usuarios*  
+**Rol/Responsabilidades:** *Investigación clínica, entrevistas con usuarios*  
 **Hobbies:** *Producir música, tocar piano, jugar con amigos, pasear*  
 **Área de investigación:** *Biomecánica y Señales*
 
@@ -56,12 +56,12 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 </p>
 
 
-**Edad:** 18  
-**Rol/Responsabilidades:**   
+**Edad:** XX  
+**Rol/Responsabilidades:** *Diseño CAD y prototipado 3D*  
 **Hobbies:** *Artes plásticas, deportes al aire libre*  
-**Área de interés:** *Señales e imágenes biomédicas*
+**Área de investigación:** *Materiales biomédicos, fabricación aditiva*
 
-**Contacto:** [email@dominio.com]gustavo.vasquez@upch.pe) | @gustavoi.vcz
+**Contacto:** [email@dominio.com](mailto:email@dominio.com) | @usuario
 
 ---
 
@@ -87,12 +87,12 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
   <img src="https://github.com/stvz-gael/FUNBIO/blob/main/Im%C3%A1genes/RICHIE.jpg" alt="INTEGRANTE 5" width="300"/>
 </p>
 
-**Edad:** XX  
-**Rol/Responsabilidades:** *Regulación y ética del proyecto*  
-**Hobbies:** *Trekking, voluntariado*  
-**Área de investigación:** *Regulaciones DIGEMID/MINSA, bioética*
+**Edad:** 19  
+**Rol/Responsabilidades:** *Investigador y analista*  
+**Hobbies:** *Ajedrez, escuchar música*  
+**Área de investigación:** *Señales e imágenes médicas*
 
-**Contacto:** [email@dominio.com](mailto:email@dominio.com) | @usuario
+**Contacto:** [email@dominio.com](mailto:ricardo.torresc@pucp.edu.pe) | @usuario
 
 ---
 
@@ -104,7 +104,7 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 
 **Edad:** 19 
 **Rol/Responsabilidades:** *Modelado y prototipado*  
-**Hobbies:** * Leer, escuchar musica y construir cosas*  
+**Hobbies:** *Música electrónica, lectura de ciencia ficción*  
 **Área de investigación:** *Interoperabilidad de sistemas, trazabilidad*
 
 **Contacto:** [email@dominio.com](mailto:email@dominio.com) | @usuario
