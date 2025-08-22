@@ -27,10 +27,10 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 
 **Edad:** 19 
 **Rol/Responsabilidades:** *Diseñador de Prototipo (Diseño Industrial y CAD)*  
-**Hobbies:** *kkkkk*  
+**Hobbies:** *Esuchar música, leer*  
 **Área de Interés:** *Biomecánica, diseño centrado en el usuario*
 
-**Contacto:** [email@dominio.com](mailto:email@dominio.com) 
+**Contacto:** [alejandro.santa.maria@upch.pe](mailto:alejandro.santa.maria@upch.pe) 
 
 ---
 
