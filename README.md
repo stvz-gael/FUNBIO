@@ -1,4 +1,7 @@
-![BANNER](https://github.com/stvz-gael/FUNBIO/blob/main/Im%C3%A1genes/BANNER.jpg)
+<p align="center">
+  <img src="https://github.com/stvz-gael/FUNBIO/blob/main/Im%C3%A1genes/BANNER.jpg" alt="ejemplo" width="500"/>
+</p>
+
 # Presentación del equipo
 
 ## Introducción
