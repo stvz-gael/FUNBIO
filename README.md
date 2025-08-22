@@ -19,18 +19,18 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 
 ---
 
-# Integrante 1 — **ALEJANDRO SANTA MARÍA**
+# Integrante 1 — **ALEJANDRO SANTA MARÍA **
 
 <p align="center">
   <img src="https://github.com/stvz-gael/FUNBIO/blob/main/Im%C3%A1genes/ALEJANDRO.jpg" alt="INTEGRANTE 1" width="300"/>
 </p>
 
 **Edad:** 19 
-**Rol/Responsabilidades:** *Líder de proyecto, coordinación con clínicos y planificación*  
+**Rol/Responsabilidades:** *Diseñador de Prototipo (Diseño Industrial y CAD)*  
 **Hobbies:** *kkkkk*  
 **Área de investigación:** *Biomecánica, diseño centrado en el usuario*
 
-**Contacto:** [alejandro.santa.maria@upch.pe](mailto:alejandro.santa.maria@upch.pe) | @alejandro-santa-maria
+**Contacto:** [email@dominio.com](mailto:email@dominio.com) | @usuario
 
 ---
 
@@ -41,7 +41,7 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 </p>
 
 **Edad:** 18  
-**Rol/Responsabilidades:** *Investigación clínica, entrevistas con usuarios*  
+**Rol/Responsabilidades:** *Coordinación con clínicos y planificación del proyecto*  
 **Hobbies:** *Producir música, tocar piano, jugar con amigos, pasear*  
 **Área de investigación:** *Biomecánica y Señales*
 
@@ -56,8 +56,8 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 </p>
 
 
-**Edad:** XX  
-**Rol/Responsabilidades:** *Diseño CAD y prototipado 3D*  
+**Edad:** 18  
+**Rol/Responsabilidades:** *Diseño y Electrónica*  
 **Hobbies:** *Artes plásticas, deportes al aire libre*  
 **Área de investigación:** *Materiales biomédicos, fabricación aditiva*
 
@@ -77,18 +77,18 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 **Hobbies:** *Leer, bailar, armar rompecabezas*  
 **Área de investigación:** *Bioseñales, procesamiento de datos*
 
-**Contacto:** [valeria.valdivia.p@upch.pe](mailto:valeria.valdivia.p@upch.pe) | @valeriavaldiviap
+**Contacto:** [email@dominio.com](mailto:valeria.valdivia.p@upch.pe) | @usuario
 
 ---
 
-# Integrante 5 — **RICARDO TORRES**
+# Integrante 5 — **RICARDO TORRES*
 
 <p align="center">
   <img src="https://github.com/stvz-gael/FUNBIO/blob/main/Im%C3%A1genes/RICHIE.jpg" alt="INTEGRANTE 5" width="300"/>
 </p>
 
 **Edad:** 19  
-**Rol/Responsabilidades:** *Investigador y analista*  
+**Rol/Responsabilidades:** *Investigador biomecánico y clínico, analista*  
 **Hobbies:** *Ajedrez, escuchar música*  
 **Área de investigación:** *Señales e imágenes médicas*
 
@@ -103,11 +103,11 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 </p>
 
 **Edad:** 19 
-**Rol/Responsabilidades:** *Modelado y prototipado*  
-**Hobbies:** *Hacer manualidades, jugar voley y leer*  
+**Rol/Responsabilidades:** *Gestor de materiales y logística*  
+**Hobbies:** *Música electrónica, lectura de ciencia ficción*  
 **Área de investigación:** *Interoperabilidad de sistemas, trazabilidad*
 
-**Contacto:** [email@dominio.com](mailto:Rosa.Villarreal@upch.pe) | @usuario
+**Contacto:** [email@dominio.com](mailto:email@dominio.com) | @usuario
 
 ---
 
