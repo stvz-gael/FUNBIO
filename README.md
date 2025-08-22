@@ -75,7 +75,7 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 **Edad:** 18  
 **Rol/Responsabilidades:** *Validación y pruebas de dispositivos*  
 **Hobbies:** *Leer, bailar, armar rompecabezas*  
-**Área de Interés:** *Bioseñales, procesamiento de datos*
+**Área de Interés:** *Bioseñales, Ingeniería de Tejidos y biomateriales*
 
 **Contacto:** [valeria.valdivia.p@upch.pe](mailto:valeria.valdivia.p@upch.pe)
 
