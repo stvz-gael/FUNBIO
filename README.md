@@ -12,7 +12,7 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 
 ---
 
-# Integrante 1 — **NOMBRE APELLIDO**
+# Integrante 1 — **ALEJANDRO SANTA MARÍA **
 
 <img src="https://github.com/stvz-gael/FUNBIO/blob/main/Im%C3%A1genes/ALEJANDRO.jpg" alt="INTEGRANTE 1" width="300"/>
 
@@ -25,7 +25,7 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 
 ---
 
-# Integrante 2 — **NOMBRE APELLIDO**
+# Integrante 2 — **GAEL SANTIVAÑEZ**
 
 ![Integrante 2](https://github.com/stvz-gael/FUNBIO/blob/main/Im%C3%A1genes/GAEL.jpg)
 
@@ -38,7 +38,7 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 
 ---
 
-# Integrante 3 — **NOMBRE APELLIDO**
+# Integrante 3 — **GUSTAVO VÁSQUEZ**
 
 ![Integrante 3](https://github.com/stvz-gael/FUNBIO/blob/main/Im%C3%A1genes/GUSTAVO.jpg)
 
@@ -64,7 +64,7 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 
 ---
 
-# Integrante 5 — **NOMBRE APELLIDO**
+# Integrante 5 — **RICARDO TORRES*
 
 ![Integrante 5](https://github.com/stvz-gael/FUNBIO/blob/main/Im%C3%A1genes/RICHIE.jpg)
 
