@@ -1,4 +1,4 @@
-# HOLA MUNDO
+# printf("HOLA MUNDO");
 <<<<<<< HEAD
 
 ![memerengue](https://github.com/Gustavovc-12/PRUEBAS/blob/master/images.jpg)
