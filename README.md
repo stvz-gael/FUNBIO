@@ -4,7 +4,10 @@
 ## Introducción
 
 Somos un grupo de **6 estudiantes de 4.º ciclo** del curso **Fundamentos de Biodiseño**. Estamos enfocados en la investigación y el diseño de dispositivos biomédicos, aplicando técnicas de ingeniería biomédica para abordar problemas de salud en **Perú**. 
+
+<p align="center">
 ![TODOS](https://github.com/stvz-gael/FUNBIO/blob/main/Im%C3%A1genes/TODOS.jpg)
+</p>
 
 ### Objetivo
 
@@ -12,7 +15,7 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 
 ---
 
-# Integrante 1 — **ALEJANDRO SANTA MARÍA**
+# Integrante 1 — **ALEJANDRO SANTA MARÍA **
 
 <img src="https://github.com/stvz-gael/FUNBIO/blob/main/Im%C3%A1genes/ALEJANDRO.jpg" alt="INTEGRANTE 1" width="300"/>
 
