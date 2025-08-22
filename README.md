@@ -45,7 +45,7 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 **Hobbies:** *Producir música, tocar piano, jugar con amigos, pasear*  
 **Área de investigación:** *Biomecánica y Señales*
 
-**Contacto:** [gael.santivanez@upch.pe](gael.santivanez@upch.pe) | @stvz_gxel
+**Contacto:** [gael.santivanez@upch.pe](mailto:gael.santivanez@upch.pe) | @stvz_gxel
 
 ---
 
