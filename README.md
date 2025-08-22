@@ -26,7 +26,6 @@ Diseñar y desarrollar un dispositivo biomédico que pueda mejorar la calidad de
 </p>
 
 **Edad:** *18* 
-
 **Rol/Responsabilidades:** *Diseñador de Prototipo (Diseño Industrial y CAD)*  
 **Hobbies:** *Esuchar música, leer*  
 **Área de Interés:** *Biomecánica, diseño centrado en el usuario*
@@ -104,7 +103,6 @@ Diseñar y desarrollar un dispositivo biomédico que pueda mejorar la calidad de
 </p>
 
 **Edad:** *19*
-
 **Rol/Responsabilidades:** *Gestor de materiales y logística*  
 **Hobbies:** *Leer,jugar voley y hacer manualidades*  
 **Área de Interés:** *Señales e imágenes médicas*
