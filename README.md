@@ -19,7 +19,7 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 
 ---
 
-# Integrante 1 — **ALEJANDRO SANTA MARÍA **
+# Integrante 1 — **ALEJANDRO SANTA MARÍA**
 
 <p align="center">
   <img src="https://github.com/stvz-gael/FUNBIO/blob/main/Im%C3%A1genes/ALEJANDRO.jpg" alt="INTEGRANTE 1" width="300"/>
