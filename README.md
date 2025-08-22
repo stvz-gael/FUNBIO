@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/stvz-gael/FUNBIO/blob/main/Im%C3%A1genes/BANNER.jpg" alt="ejemplo" width="500"/>
+  <img src="https://github.com/stvz-gael/FUNBIO/blob/main/Im%C3%A1genes/BANNER.jpg" alt="ejemplo" width="1000"/>
 </p>
 
 # Presentación del equipo
