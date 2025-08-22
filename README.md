@@ -59,7 +59,7 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 **Edad:** 18  
 **Rol/Responsabilidades:** *Diseño y Electrónica*  
 **Hobbies:** *Artes plásticas, deportes al aire libre*  
-**Área de Interés:** *Materiales biomédicos, fabricación aditiva*
+**Área de Interés:** *Señales e imágenes médicas*
 
 **Contacto:** [gustavo.vasquez@upch.pe](mailto:gustavo.vasquez@upch.pe)
 
