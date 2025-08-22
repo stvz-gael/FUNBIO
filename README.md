@@ -26,6 +26,7 @@ Diseñar y desarrollar un dispositivo biomédico que pueda mejorar la calidad de
 </p>
 
 **Edad:** *18* 
+
 **Rol/Responsabilidades:** *Diseñador de Prototipo (Diseño Industrial y CAD)*  
 **Hobbies:** *Esuchar música, leer*  
 **Área de Interés:** *Biomecánica, diseño centrado en el usuario*
@@ -103,6 +104,7 @@ Diseñar y desarrollar un dispositivo biomédico que pueda mejorar la calidad de
 </p>
 
 **Edad:** *19*
+
 **Rol/Responsabilidades:** *Gestor de materiales y logística*  
 **Hobbies:** *Leer,jugar voley y hacer manualidades*  
 **Área de Interés:** *Señales e imágenes médicas*
@@ -117,7 +119,7 @@ Diseñar y desarrollar un dispositivo biomédico que pueda mejorar la calidad de
 **Descripción:** *Las personas con ELA pierden la capacidad de hablar debido a la parálisis de los músculos que controlan el habla.*
 
 **Justificación:** *Las personas con Esclerosis Lateral Amiotrófica (ELA), también denominada
-como enfermedad de Lou Gehrig, es una enfermedad de carácter degenerativo, que afecta a tus neuronas motoras superiores o inferiores (C. Rodríguez et al., 2021), lo que puede causar una pérdida progresiva en la capacidad de hablar debido a la parálisis de los músculos responsables del habla (J. Rojas & J. Fernández, 2014), lo que afecta gravemente su autonomía y genera un aislamiento social. La dificultad para comunicarse impacta su bienestar emocional y calidad de vida. Un dispositivo de comunicación basado en movimientos oculares o faciales ofrecería a los pacientes con ELA una forma accesible de interactuar, reduciendo la frustración y mejorando su interacción social. Este tipo de tecnología ayudaría a mantener su independencia y conexiones sociales.*
+como enfermedad de Lou Gehrig, es una enfermedad de carácter degenerativo, que afecta a tus neuronas motoras superiores o inferiores (C. Rodríguez et al., 2021), lo que puede causar una pérdida progresiva en la capacidad de hablar debido a la parálisis de los músculos responsables del habla (J. Rojas & J. Fernández, 2014), lo que afecta gravemente su autonomía y genera un aislamiento social. La dificultad para comunicarse impacta su bienestar emocional y calidad de vida.*
 
 **Bibliografía:** 
 
