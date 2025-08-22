@@ -41,7 +41,7 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 </p>
 
 **Edad:** 18  
-**Rol/Responsabilidades:** *Investigación clínica, entrevistas con usuarios*  
+**Rol/Responsabilidades:** *Investigación mecánica y clínica, entrevistas con usuarios*  
 **Hobbies:** *Producir música, tocar piano, jugar con amigos, pasear*  
 **Área de investigación:** *Biomecánica y Señales*
 
