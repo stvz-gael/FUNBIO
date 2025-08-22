@@ -107,7 +107,7 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 **Hobbies:** *Hacer manualidades, jugar voley y leer*  
 **Área de investigación:** *Interoperabilidad de sistemas, trazabilidad*
 
-**Contacto:** [email@dominio.com](mailto:email@dominio.com) | @usuario
+**Contacto:** [email@dominio.com](mailto:Rosa.Villarreal@upch.pe) | @usuario
 
 ---
 
