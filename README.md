@@ -6,8 +6,9 @@
 Somos un grupo de **6 estudiantes de 4.º ciclo** del curso **Fundamentos de Biodiseño**. Estamos enfocados en la investigación y el diseño de dispositivos biomédicos, aplicando técnicas de ingeniería biomédica para abordar problemas de salud en **Perú**. 
 
 <p align="center">
-![TODOS](https://github.com/stvz-gael/FUNBIO/blob/main/Im%C3%A1genes/TODOS.jpg)
+  <img src="https://github.com/stvz-gael/FUNBIO/blob/main/Im%C3%A1genes/TODOS.jpg" alt="ejemplo" width="300"/>
 </p>
+
 
 ### Objetivo
 
