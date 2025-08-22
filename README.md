@@ -81,7 +81,7 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 
 ---
 
-# Integrante 5 — **RICARDO TORRES*
+# Integrante 5 — **RICARDO TORRES**
 
 <p align="center">
   <img src="https://github.com/stvz-gael/FUNBIO/blob/main/Im%C3%A1genes/RICHIE.jpg" alt="INTEGRANTE 5" width="300"/>
