@@ -41,7 +41,7 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 </p>
 
 **Edad:** 18  
-**Rol/Responsabilidades:** *Investigación clínica y mecánica*  
+**Rol/Responsabilidades:** *Investigación clínica, entrevistas con usuarios*  
 **Hobbies:** *Producir música, tocar piano, jugar con amigos, pasear*  
 **Área de investigación:** *Biomecánica y Señales*
 
@@ -56,12 +56,12 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 </p>
 
 
-**Edad:** XX  
-**Rol/Responsabilidades:** *Diseño CAD y prototipado 3D*  
+**Edad:** 18  
+**Rol/Responsabilidades:**   
 **Hobbies:** *Artes plásticas, deportes al aire libre*  
-**Área de investigación:** *Materiales biomédicos, fabricación aditiva*
+**Área de interés:** *Señales e imágenes biomédicas*
 
-**Contacto:** [email@dominio.com](mailto:email@dominio.com) | @usuario
+**Contacto:** [email@dominio.com]gustavo.vasquez@upch.pe) | @gustavoi.vcz
 
 ---
 
