@@ -77,7 +77,7 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 **Hobbies:** *Leer, bailar, armar rompecabezas*  
 **Área de investigación:** *Bioseñales, procesamiento de datos*
 
-**Contacto:** [email@dominio.com](mailto:valeria.valdivia.p@upch.pe) | @usuario
+**Contacto:** [valeria.valdivia.p@upch.pe](mailto:valeria.valdivia.p@upch.pe) | @valeriavaldiviap
 
 ---
 
