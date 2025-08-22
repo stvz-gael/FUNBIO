@@ -104,10 +104,10 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 
 **Edad:** 19 
 **Rol/Responsabilidades:** *Gestor de materiales y logística*  
-**Hobbies:** *Música electrónica, lectura de ciencia ficción*  
-**Área de Interés:** *Interoperabilidad de sistemas, trazabilidad*
+**Hobbies:** *Leer,jugar voley y hacer manualidades*  
+**Área de Interés:** *Señales e imágenes médicas*
 
-**Contacto:** [email@dominio.com](mailto:email@dominio.com)
+**Contacto:** [Rosa.Villarreal@upch.pe](mailto:Rosa.Villarreal@upch.pe)
 
 ---
 
