@@ -43,9 +43,9 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 **Edad:** 18  
 **Rol/Responsabilidades:** *Investigación clínica, entrevistas con usuarios*  
 **Hobbies:** *Producir música, tocar piano, jugar con amigos, pasear*  
-**Área de investigación:** *Dispositivos portátiles, ergonomía*
+**Área de investigación:** *Biomecánica y Señales*
 
-**Contacto:** [gael.santivanez@upch.pe](gael.santivanez@upch.pe) | @usuario
+**Contacto:** [gael.santivanez@upch.pe](gael.santivanez@upch.pe) | @stvz_gxel
 
 ---
 
