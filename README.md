@@ -92,7 +92,7 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 **Hobbies:** *Ajedrez, escuchar música*  
 **Área de investigación:** *Señales e imágenes médicas*
 
-**Contacto:** [email@dominio.com](mailto:ricardo.torresc@pucp.edu.pe) | @usuario
+**Contacto:** [ricardo.torresc@pucp.edu.pe](mailto:ricardo.torresc@pucp.edu.pe) | @richie.
 
 ---
 
