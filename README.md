@@ -15,7 +15,7 @@ Somos un grupo de 6 estudiantes de 4.º ciclo del curso Fundamentos de Biodiseñ
 
 ### Objetivo
 
-Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calidad de atención médica en el país, utilizando **tecnologías innovadoras y accesibles**.
+Diseñar y desarrollar un dispositivo biomédico que pueda mejorar la calidad de atención médica en el país, utilizando tecnologías innovadoras y accesibles.
 
 ---
 
