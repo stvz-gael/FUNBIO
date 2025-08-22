@@ -19,7 +19,7 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 
 ---
 
-# Integrante 1 — **ALEJANDRO SANTA MARÍA**
+# Integrante 1 — **ALEJANDRO SANTA MARÍA **
 
 <p align="center">
   <img src="https://github.com/stvz-gael/FUNBIO/blob/main/Im%C3%A1genes/ALEJANDRO.jpg" alt="INTEGRANTE 1" width="300"/>
@@ -40,12 +40,12 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
   <img src="https://github.com/stvz-gael/FUNBIO/blob/main/Im%C3%A1genes/GAEL.jpg" alt="INTEGRANTE 2" width="300"/>
 </p>
 
-**Edad:** XX  
+**Edad:** 18  
 **Rol/Responsabilidades:** *Investigación clínica, entrevistas con usuarios*  
-**Hobbies:** *Tocar guitarra, fotografía*  
+**Hobbies:** *Producir música, tocar piano, jugar con amigos, pasear*  
 **Área de investigación:** *Dispositivos portátiles, ergonomía*
 
-**Contacto:** [email@dominio.com](mailto:email@dominio.com) | @usuario
+**Contacto:** [email@dominio.com](gael.santivanez@upch.pe) | @usuario
 
 ---
 
