@@ -113,9 +113,10 @@ Diseñar y desarrollar un **dispositivo biomédico** que pueda mejorar la calida
 
 # Descripción del proyecto
 **Problemática:**  *Dificultad para hablar en personas con ELA*
-
-**Justificación:** *Las personas con Esclerosis Lateral Amiotrófica (ELA) pierden progresivamente la capacidad de hablar debido a la parálisis de los músculos responsables del habla, lo que afecta gravemente su autonomía y genera un aislamiento social. La dificultad para comunicarse impacta su bienestar emocional y calidad de vida. Un dispositivo de comunicación basado en movimientos oculares o faciales ofrecería a los pacientes con ELA una forma accesible de interactuar, reduciendo la frustración y mejorando su interacción social. Este tipo de tecnología ayudaría a mantener su independencia y conexiones sociales.*
-
 **Descripción:** *Las personas con ELA pierden la capacidad de hablar debido a la parálisis de los músculos que controlan el habla.*
+**Justificación:** *Las personas con Esclerosis Lateral Amiotrófica (ELA), también denominada
+como enfermedad de Lou Gehrig, es una enfermedad de carácter degenerativo, que afecta a tus neuronas motoras superiores o inferiores (C. Rodríguez et al., 2021), lo que puede causar una pérdida progresiva en la capacidad de hablar debido a la parálisis de los músculos responsables del habla (J. Rojas & J. Fernández, 2014), lo que afecta gravemente su autonomía y genera un aislamiento social. La dificultad para comunicarse impacta su bienestar emocional y calidad de vida. Un dispositivo de comunicación basado en movimientos oculares o faciales ofrecería a los pacientes con ELA una forma accesible de interactuar, reduciendo la frustración y mejorando su interacción social. Este tipo de tecnología ayudaría a mantener su independencia y conexiones sociales.*
+**Bibliografía:** 
+*Castro-Rodríguez, E., Azagra, R., Gómez-Batiste, X., & Povedano, M. (2021). La esclerosis lateral amiotrófica (ELA) desde la Atención Primaria. Epidemiología y características clínico-asistenciales [Amyotrophic lateral sclerosis (ALS) from the perspective of Primary Care. Epidemiology and clinical-care characteristics]. Aten Primaria, 53(10), 102158. https://doi.org/10.1016/j.aprim.2021.102158Epub 2021 Sep 10. PMID: 34509895; PMCID: PMC8435918.
 
-**Idea de prototipo:** *Desarrollar un dispositivo de comunicación basado en movimientos oculares o movimientos sutiles de los músculos faciales. El dispositivo podría traducir el parpadeo o los movimientos de la cabeza en palabras a través de un software simple en una interfaz de pantalla.*
+Rojas, J. I., & Fernández, J. A. (2014). Esclerosis lateral amiotrófica (ELA): seguimiento y tratamiento. Neurología Argentina, 6(3), 167-172. Recuperado de https://www.elsevier.es/es-revista-neurologia-argentina-301-articulo-esclerosis-lateral-amiotrofica-ela-seguimiento-S1853002814000330*
